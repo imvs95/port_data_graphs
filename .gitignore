@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*/__pycache__/*
+__pycache__
+.idea
+venv
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Large files
+data_av/all_connections_combined_msc_20231110.pickle
+
+graph_networkx_SOUTHAMERICA_msc_route.pkl
+graph_networkx_SOUTHAMERICA_msc_route_with_distributions.pkl
