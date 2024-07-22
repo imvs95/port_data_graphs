@@ -6,8 +6,8 @@ Airport data is collected from the open-source `OpenFlights <https://www.kaggle.
 
 As case study, we collect data on CN-HK to main ports in the USA, and mostly MSC data on South America to NL-BE.
 
-This repository is also part of the Ph.D. thesis of  `Isabelle M. van Schilt <https://www.tudelft.nl/staff/i.m.vanschilt/?cHash=74e749835b2a89c6c76b804683ffbbcf>`_, Delft University of Technology.
-This repository is used for developing various graphs on open-source data and automatically running it as a simulation model in the repository: `complex_stylized_supply_chain_model_generator <https://github.com/imvs95/complex_stylized_supply_chain_model_generator>`_
+This repository is also part of the Ph.D. thesis of  `Isabelle M. van Schilt <https://www.tudelft.nl/staff/i.m.vanschilt/?cHash=74e749835b2a89c6c76b804683ffbbcf>`_, Delft University of Technology. The version of the code used in the Ph.D. thesis is available at doi: `10.4121/72e97df0-147c-4228-a1b4-8bb8e8461317.v1<https://doi.org/10.4121/72e97df0-147c-4228-a1b4-8bb8e8461317.v1>`_.
+This repository is used for developing various graphs on open-source data and automatically running it as a simulation model in the repository: `complex_stylized_supply_chain_model_generator <https://github.com/imvs95/complex_stylized_supply_chain_model_generator>`_.
 
 Content
 =====================================================
